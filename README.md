@@ -1,3 +1,9 @@
 # example_1
 
-# คาบแรกเรียนการ สมัคร การใช้git การ pull request การ branch
+# คาบแรกเรียนการ
+
+-สมัคร **Account**
+
+- การใช้ git
+- การ pull request
+- การ branch
