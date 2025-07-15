@@ -2,8 +2,7 @@
 
 # คาบแรกเรียนการ
 
--สมัคร **Account**
-
+- สมัคร **Account**
 - การใช้ git
 - การ pull request
 - การ branch
