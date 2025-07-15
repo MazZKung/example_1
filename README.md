@@ -1,5 +1,3 @@
 # example_1
 
-STuden
-<<<<<<< HEAD
-Hello World Hiw khaw
+# คาบแรกเรียนการ สมัคร การใช้git การ pull request การ branch
